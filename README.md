@@ -8,7 +8,7 @@ In my repositories, you'll often find a spark of inspiration—non-commercial le
 
 Enjoy your stay!
 
-# **I'm confident in: **
+# **I'm confident in:**
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,python,tensorflow,aiscript,bots,net,azure,googlecloud)](https://skillicons.dev)
 
